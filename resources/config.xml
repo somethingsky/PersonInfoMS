@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Database>
+    <driver>QMYSQL</driver>
+    <hostName>127.0.0.1</hostName>
+    <port>3306</port>
+    <userName>root</userName>
+    <password>123456</password>
+    <databaseName>personInfo</databaseName>
+</Database>
